@@ -1,0 +1,4 @@
+Filename,SentimentScore,Label
+review_action_movie.txt,0.12,POSITIVE
+review_comedy.txt,0.08,POSITIVE
+review_drama.txt,-0.06,NEGATIVE
